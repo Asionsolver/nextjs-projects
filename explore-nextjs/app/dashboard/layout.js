@@ -4,8 +4,8 @@ const DashboardLayout = ({children}) => {
     <>
         <div className='border-b border-purple-500 mb-4'>
       <ul className='flex gap-5 p-4'>
-          <li>Analytics</li>
-          <li>Settings</li>
+          <li>Details</li>
+          <li>Graph</li>
         </ul>
     </div>
     {children}
